@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-### Welcome to my GitHub. My name is Maicon, and I study System Information and cybersecurity 💻
+### Welcome to my GitHub. My name is Maicon, and I study Information Systems and cybersecurity 💻
 <p align="center">
   <img src="https://c.tenor.com/He2W0AQvZfsAAAAd/tenor.gif" alt="Maicon Souza GIF" height="150">
 </p>
